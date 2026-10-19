@@ -25,3 +25,6 @@ python -m unittest discover -s tests -v
 
 ## Sorumluluk
 Yalnızca denetlemeye yetkili olduğunuz sitelerde kullanın. Betikler hız sınırlıdır ve bot korumasını aşmaz.
+
+## Lisans
+MIT; bkz. [LICENSE](LICENSE).
